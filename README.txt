@@ -6,3 +6,4 @@ Dentro dessa pasta ainda possui os resultados gerados tanto em CSV quanto em JSO
 
 
 >Pasta Codigo API
+Na pasta API master, existe o código server.js para executalo é necessário instalar o node js além dos pacotes nodemon e o express. os dados para a conexão no banco estão usuario e senha estão disponíveis no código. A API está configurada para execução localhost.
